@@ -1,4 +1,3 @@
-import React from 'react';
 import { QuestionCard } from './QuestionCard';
 import { useQuestions } from '../hooks/useQuestions';
 
